@@ -1,3 +1,3 @@
-# Task 1
+# Task 2
 ### App screenshot
-![](./send_button.png)
+![](./secondactivity.png)
