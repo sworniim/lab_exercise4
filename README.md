@@ -1,4 +1,4 @@
 # Task 3
 ### App screenshot
-![](./entermessage.png)
-![](./messagerecieved.png)
+![](./replyrecieved.png)
+![](./recievedmessage.png)
